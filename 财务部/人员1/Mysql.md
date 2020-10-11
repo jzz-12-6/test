@@ -2283,3 +2283,4 @@ MySQL 重启之后会重新生成新的 binlog 文件，这就保证了，同一
 
 ### 4 Innodb trx_id
 
+1
